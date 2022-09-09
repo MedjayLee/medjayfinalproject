@@ -1,0 +1,48 @@
+/* Inter Regular */
+@font-face {
+    font-family: 'Inter regular';
+    src: url(../fonts/Inter-Regular.ttf);
+}
+.inter-regular{
+    font-family: 'Inter regular';
+}
+/* Inter Medium */
+@font-face {
+    font-family: 'Inter medium';
+    src: url(../fonts/Inter-Medium.ttf);
+}
+.inter-medium{
+    font-family: 'Inter medium';
+}
+/* Inter Bold */
+@font-face {
+    font-family: 'Inter bold';
+    src: url(../fonts/Inter-Bold.ttf);
+}
+.inter-bold{
+    font-family: 'Inter bold';
+}
+/* Inter Black */
+@font-face {
+    font-family: 'Inter black';
+    src: url(../fonts/Inter-Black.ttf);
+}
+.inter-black{
+    font-family: 'Inter black';
+}
+/* Montserrat Regular */
+@font-face {
+    font-family: 'Montserrat regular';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+.montserrat-regular{
+    font-family: 'Montserrat regular';
+}
+/* Montserrat Medium */
+@font-face {
+    font-family: 'Montserrat medium';
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
+.montserrat-medium{
+    font-family: 'Montserrat medium';
+}
